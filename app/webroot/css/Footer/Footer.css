@@ -1,0 +1,16 @@
+/* 
+    Document   : Footer
+    Created on : 20.06.2013, 10:26:56
+    Author     : Hariz Adenan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#copyright{
+    float: right; 
+    margin-top: 15px;    
+}

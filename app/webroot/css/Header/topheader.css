@@ -1,0 +1,82 @@
+/* 
+    Document   : topheader
+    Created on : 06.06.2013, 22:09:53
+    Author     : Hariz Adenan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#home_logo{
+    float: left;
+    width: 30px;
+    margin: 10px 10px 10px 10px;
+}
+
+#top_nav{
+    float: right;
+}
+
+#topmenu{
+    font-size: 18px;
+}
+
+.jtr .cp{
+	cursor:pointer;
+	float:left;
+	margin-right:180px;
+	margin-bottom:1px;
+}
+
+.jtr #acc_opt{
+	background-color:#fff;
+	border:1px solid #cbcbcb;
+	color:#2a54ce;
+	line-height:17px;
+	padding:1px 0;
+	position:absolute;
+	text-align:left;
+	top:23px;
+	width:147px;
+	z-index:999;
+}
+
+.jtr #acc_opt a
+{
+	float:left;
+	font-size:12px;
+	font-weight:normal;
+	padding:7px 10px;width:127px;
+	color:#1274c0;
+	position:relative;
+	margin:0;
+	background:url("http://images.jdmagicbox.com/icontent/dots.gif") repeat-x scroll center bottom;
+}
+
+.jtr #acc_opt a:hover,.jtr #acc_opt a.nb:hover
+{
+  background:#e2f2ff
+}
+
+.opt
+{
+	background:url("http://images.jdmagicbox.com/icontent/HP_Header_Sprite.gif")
+	no-repeat;display:inline-block;
+	background-position:-3px -89px;
+	cursor:pointer;
+	height:17px;
+	width:20px;
+	vertical-align:middle
+}
+
+#acc_opt a 
+{
+	font-size:14px;
+	color:#03F;
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+}

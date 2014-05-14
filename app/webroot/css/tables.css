@@ -1,0 +1,25 @@
+/* 
+    Document   : tables
+    Created on : 05.06.2013, 15:27:24
+    Author     : Hariz Adenan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#main_archives{
+    position:relative;
+    width:auto;
+    height:auto;
+    clear: both;
+}
+
+tr,
+th,
+td{
+    border: 1px #000000 solid;
+    text-align: center;
+}
